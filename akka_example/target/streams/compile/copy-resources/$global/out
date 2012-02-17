@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/nilanjanraychaudhuri/projects/nfjs/akka_example/src/main/resources/application.conf,/Users/nilanjanraychaudhuri/projects/nfjs/akka_example/target/scala-2.9.1/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nilanjanraychaudhuri/projects/nfjs/akka_example/src/main/resources/common.conf,/Users/nilanjanraychaudhuri/projects/nfjs/akka_example/target/scala-2.9.1/classes/common.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nilanjanraychaudhuri/projects/nfjs/akka_example/src/main/resources/payroll.txt,/Users/nilanjanraychaudhuri/projects/nfjs/akka_example/target/scala-2.9.1/classes/payroll.txt)[0m
